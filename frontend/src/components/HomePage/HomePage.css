@@ -1,8 +1,4 @@
 .Home {
-    background-image: url("https://www.iretron.com/blog/wp-content/uploads/2017/01/robot-waiter.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding-bottom: 100%;
-    padding-top: 1px;
-    opacity: 0.8;
+    padding-top: 20%;
+    background-image: url('https://www.techscapelabs.com/wp-content/uploads/2020/03/food-ai-1536x606.jpg');
 }
